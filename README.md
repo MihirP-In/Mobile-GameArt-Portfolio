@@ -56,5 +56,3 @@ Portfolio: [https://mihirp-in.github.io/](https://mihirp-in.github.io/)
 GitHub: [https://github.com/MihirP-In](https://github.com/MihirP-In)
 
 ---
-
-Before publishing, confirm that you have permission to publicly share each production asset and gameplay clip, and remove any confidential or unreleased material.
