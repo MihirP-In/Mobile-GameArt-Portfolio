@@ -28,10 +28,9 @@ The badges above represent the software used across my portfolio. The project se
 - Character planning
 - 3D modeling and sculpting
 - Texturing and material creation
-- Character rigging
 - Game testing and visual quality checks
 
-### Pop Doll — Stylized 3D Character Production
+### Pop Doll — Stylized 2D Character Production
 
 **Software used:** Blender · Adobe Illustrator
 
@@ -44,9 +43,8 @@ The badges above represent the software used across my portfolio. The project se
 
 **My contributions:**
 - Character planning
-- 3D modeling and sculpting
+- 2D modelling
 - Texturing and material creation
-- Character rigging
 - Game testing and visual quality checks
 
 ### Mobile Game Head Characters — Character Art Production
