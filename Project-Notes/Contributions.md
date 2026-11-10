@@ -10,7 +10,7 @@
 ## Pop Doll
 **Software:** Blender, Adobe Illustrator
 
-**Responsibilities:** Character planning, 3D modeling, sculpting, texturing, rigging, and game testing.
+**Responsibilities:** Character planning, 2D modeling, texturing, rigging, and game testing.
 
 **Gameplay:** https://youtube.com/shorts/fJhb45M7Hio
 
